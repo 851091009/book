@@ -75,3 +75,5 @@
 该技术体系主要应用于小型电子消费类产品，如手机中的应用程序等。
 
 > Java5.0版本后，更名为 JAVAEE JAVASE JAVAME
+
+> 可以通俗一点的说，SE 是标准的 java api,属于 java 基础，可以理解是 SE是根   EE是拓展  ME是嵌入式
