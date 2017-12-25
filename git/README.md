@@ -5,6 +5,6 @@
 echo "# book" >> README.md
 git init
 git add README.md
-git commit -m "first commit"
+git commit -gitm "first commit"
 git remote add origin https://github.com/851091009/book.git
 git push -u origin master
