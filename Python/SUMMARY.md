@@ -1,5 +1,12 @@
 # Summary
 
 * [简介](Python学习笔记.md)
-* [1.Python 基础](book/1.python基础.md)
-* [2.字符串和编码](book/2.字符串和编码.md)
+* [一 Python基础](book/Python基础.md)
+    * [1.Python 基础](book/1.数据类型和变量.md)
+    * [2.字符串和编码](book/2.字符串和编码.md)
+    * [3.使用list和tuple](book/3.使用list和tuple.md)
+    * [4.条件判断](book/3.条件判断.md)
+    * [5.循环](book/5.循环.md)
+    * [6.使用dict和set](book/6.使用dict和set.md)
+* [二 Python基础](book/7.函数.md)
+    * [二 Python基础](book/8.调用函数.md)
