@@ -26,3 +26,7 @@
     * [21.filter](book/21.filter.md)
     * [22.sorted](book/22.sorted.md)
     * [23.返回函数](book/23.返回函数.md)
+    * [24.匿名函数](book/24.匿名函数.md)
+    * [25.装饰器](book/25.装饰器.md)
+    * [26.偏函数](book/26.偏函数.md)
+* [27.偏函数](book/27.模块.md)
