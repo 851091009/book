@@ -73,3 +73,7 @@
     * [69.urllib](book/69.urllib.md)
     * [70.XML](book/70.XML.md)
     * [71.HTMLParser](book/71.HTMLParser.md)
+* [十一 常用第三方模块](book/72.常用第三方模块.md)
+    * [73.Pillow(图像处理)](book/73.Pillow(图像处理).md)
+    * [74.requests(url处理)](book/74.requests(url处理).md)
+
